@@ -1,5 +1,11 @@
 # Movie Hunter
 
+## Live Site Link
+
+```sh
+https://movie-hunter-app.netlify.app
+```
+
 ## Project Setup
 
 ```sh
