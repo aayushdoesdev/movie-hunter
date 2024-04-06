@@ -1,14 +1,4 @@
-# movie-app
-
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+# Movie Hunter
 
 ## Project Setup
 
@@ -27,3 +17,12 @@ npm run dev
 ```sh
 npm run build
 ```
+## Project Description
+This is a basic movie finder application that finds all the movies related to what user searched for and displays it with the "Type" & "Year".
+
+## Features and Libraries used
+
+1. Used many inbuild features of Vue Js like the "v-model", the conditional statements like "v-if" and loops.
+2. Used a third party library called "Axios" for making http request to the server and fetching the data.
+3. Used async method to handle the api and catching the errors.
+4. Used Prime Vue icons for getting the icons
